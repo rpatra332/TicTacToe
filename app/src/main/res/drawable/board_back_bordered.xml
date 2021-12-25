@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--  Color of the 3x3 block  -->
+    <solid android:color="@color/dark_blue"/>
+
+    <!--  Border of the each block  -->
+    <stroke android:color="#fff" android:width="2dp"/>
+
+    <!--  Corner Radius  -->
+    <corners android:radius="30dp"/>
+
+</shape>

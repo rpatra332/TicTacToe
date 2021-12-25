@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="by_rohit_patra">By Rohit Patra</string>
+    <string name="logo">Logo</string>
+    <string name="player_won">Player won</string>
+    <string name="play_again">Play Again</string>
+    <string name="enter_player_names">Enter Player Names</string>
+    <string name="cross">cross</string>
+    <string name="enter_player_one_name">Enter Player One Name</string>
+    <string name="circle">Circle</string>
+    <string name="enter_player_two_name">Enter Player Two Name</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="player_one">Player One</string>
+    <string name="player_two">Player Two</string>
+    <string name="notset">notset</string>
+</resources>

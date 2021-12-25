@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.retract.tictactoe"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:5:5-23:19
+12        android:allowBackup="true"
+12-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\Rohit Patra\.gradle\caches\transforms-2\files-2.1\20ef5b0ef65626922759a2312a98a5e9\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:11:9-40
+22        <activity
+22-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:12:9-18:20
+23            android:name="com.retract.tictactoe.FlashScreen"
+23-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:12:19-46
+24            android:screenOrientation="portrait" >
+24-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:13:13-49
+25            <intent-filter>
+25-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:14:13-17:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:15:17-69
+26-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:15:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:16:17-77
+28-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:16:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:19:9-20:51
+32            android:name="com.retract.tictactoe.AddPlayers"
+32-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:19:19-45
+33            android:screenOrientation="portrait" />
+33-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:20:13-49
+34        <activity
+34-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:21:9-22:51
+35            android:name="com.retract.tictactoe.MainActivity"
+35-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:21:19-47
+36            android:screenOrientation="portrait" />
+36-->C:\Users\Rohit Patra\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:22:13-49
+37    </application>
+38
+39</manifest>
